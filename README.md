@@ -1,61 +1,10 @@
 🧰 Useful Markdown CSS Classes
 ---
 
-`badge`  
-
-```html
-<span class='badge'> Tue Jun 12th 11:59pm PDT</span>
-```
-
-`banner-image`  
-
-```markdown
-![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
-```
-`banner-tall-image`  
-
-```markdown
-![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-tall-image')
-```
-
 `button`  
 
 ```markdown
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
-```
-
-`embedly-card`  
-
-```html
-<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
-```
-
-`row` & `column`   
-
-```html
-<div class="row">
-<div class="column">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-</div>
-<div class="column">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-</div>
-</div>
-```
-
-`video-container-4by3`  
-
-```html
-<div class="video-container-4by3"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-```
-
-`video-container-16by9`  
-```html
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 ```
 
 # Docsify Open Publishing Starter Kit
