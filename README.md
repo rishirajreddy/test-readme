@@ -1,3 +1,8 @@
+
+```html
+<span class='badge'> Tue Jun 12th 11:59pm PDT</span>
+```
+
 # Docsify Open Publishing Starter Kit
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
