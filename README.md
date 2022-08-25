@@ -7,7 +7,8 @@
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 ```
 
-`[link url="http://www.themostamazingwebsiteontheinternet.com/" /ntext="the coolest site on the internet"]`
+`[link url="http://www.themostamazingwebsiteontheinternet.com/" 
+text="the coolest site on the internet"]`
 
 # Docsify Open Publishing Starter Kit
 
